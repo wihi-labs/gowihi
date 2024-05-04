@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+
 package gowihi
 
 // https://saratoga-weather.org/wdparser/index.php?site=https%3A%2F%2Fvreme.in.rs%2Fsubotica%2F&submit=Submit
